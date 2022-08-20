@@ -34,7 +34,3 @@ What are Design Patterns?
     - Strategy
     - Template Method
     - Visitor
-
-
-
-
